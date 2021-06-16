@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Lc414 {
+public class Lc414_1 {
     public int thirdMax(int[] nums) {
         Arrays.sort(nums);
         int n = 1;
