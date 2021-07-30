@@ -1,3 +1,5 @@
+package Debug;
+
 public class ww {
     public static void main(String[] args) {
         int a = 0;
