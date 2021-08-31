@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Debug640 {
+public class D640 {
     public static void main(String[] args) {
         String ss = "-x=-1";
         String s = ss.split("=")[0];
