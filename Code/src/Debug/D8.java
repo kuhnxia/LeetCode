@@ -11,6 +11,8 @@ public class D8 {
         a.insert(0,'-');
         System.out.println(a.toString());
         System.out.println(a.toString());
+        System.out.println(a.toString());
+        System.out.println(a.toString());
 
     }
 }
